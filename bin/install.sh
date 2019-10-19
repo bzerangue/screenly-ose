@@ -128,10 +128,10 @@ fi
 
 if [ "$WEB_UPGRADE" = false ]; then
   set -x
-  REPOSITORY=${1:-https://github.com/screenly/screenly-ose.git}
+  REPOSITORY=${1:-https://github.com/bzerangue/screenly-ose.git}
 else
   set -e
-  REPOSITORY=https://github.com/screenly/screenly-ose.git
+  REPOSITORY=https://github.com/bzerangue/screenly-ose.git
 fi
 
 sudo mkdir -p /etc/ansible
