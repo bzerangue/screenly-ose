@@ -10,6 +10,7 @@ RUN apt-get update && \
         libssl-dev \
         lsb-release \
         mplayer \
+        mpv \
         net-tools \
         procps \
         python-dev \

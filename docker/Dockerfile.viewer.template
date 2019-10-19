@@ -9,7 +9,8 @@ RUN apt-get update && \
         libssl-dev \
         matchbox \
         net-tools \
-        omxplayer \
+        mplayer \
+        mpv \
         psmisc \
         python-dev \
         python-imaging \

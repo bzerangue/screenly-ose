@@ -9,6 +9,7 @@ RUN apt-get update && \
         libffi-dev \
         libssl-dev \
         mplayer \
+        mpv \
         net-tools \
         procps \
         python-dev \

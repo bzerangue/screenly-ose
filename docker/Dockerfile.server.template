@@ -10,7 +10,8 @@ RUN apt-get update && \
         lsb-release \
         net-tools \
         nginx-light \
-        omxplayer \
+        mplayer \
+        mpv \
         psmisc \
         python-dev \
         python-gobject \

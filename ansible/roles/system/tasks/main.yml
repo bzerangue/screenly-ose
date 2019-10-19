@@ -149,7 +149,8 @@
       - libffi-dev
       - libssl-dev
       - matchbox
-      - omxplayer
+      - mplayer
+      - mpv
       - python-dev
       - python-gobject
       - python-netifaces
